@@ -24,9 +24,9 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " 𝘼𝙣𝙘𝙝𝙚𝙨𝙩𝙤𝙧 𝘼𝙞 ",
-  "prefix": "/",
+  "prefix": ".",
   "database": {
-    "type": "mongodb",
+    "type": "sqlite",
     "uriMongodb": "mongodb+srv://Easirmahi:01200120mahi@anchestor.wmvrhcb.mongodb.net",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
